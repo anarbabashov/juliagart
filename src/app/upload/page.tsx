@@ -2,8 +2,8 @@
 
 import { useCallback } from "react"
 import { useDropzone } from "react-dropzone"
-import { uploadToR2 } from "@/src/lib/r2"
-import { parseExif } from "@/src/lib/exif"
+import { uploadToR2 } from "@/lib/r2"
+import { parseExif } from "@/lib/exif"
 
 export default function UploadPage() {
   const onDrop = useCallback(async (acceptedFiles: File[]) => {
