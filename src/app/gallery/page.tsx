@@ -2,6 +2,9 @@
 
 import PhotoAlbum from "react-photo-album"
 import { photos } from "@/data/photos"
+import { Blurhash } from "react-blurhash"
+
+<Blurhash hash="LEHV6nWB2yk8pyo0adR*.7kCMdnj" width={400} height={300} />
 
 export default function GalleryPage() {
   return (
