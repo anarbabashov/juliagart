@@ -14,14 +14,14 @@
 
 ## 🛠️ Tech Stack
 
-- **Framework:** [Next.js 15](https://nextjs.org/)
-- **Database:** [Neon](https://neon.tech/) (Serverless Postgres)
-- **ORM:** [Drizzle](https://orm.drizzle.team/)
-- **Authentication:** [Better Auth](https://better-auth.com/)
-- **UI Components:** [Shadcn/ui](https://ui.shadcn.com/)
-- **API Layer:** [tRPC](https://trpc.io/)
-- **Storage:** [Cloudflare R2](https://www.cloudflare.com/products/r2/)
-- **Deployment:** [Vercel](https://vercel.com)
+- **Framework:** [Next.js 15]
+- **Database:** [Neon] (Serverless Postgres)
+- **ORM:** [Drizzle]
+- **Authentication:** [Better Auth]
+- **UI Components:** [Shadcn/ui]
+- **API Layer:** [tRPC]
+- **Storage:** [Cloudflare R2]
+- **Deployment:** [Vercel]
 
 ### Prerequisites
 
