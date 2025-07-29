@@ -23,14 +23,6 @@
 - **Storage:** [Cloudflare R2]
 - **Deployment:** [Vercel]
 
-### Prerequisites
-
-- Node.js 20+
-- bun (recommended) or npm
-- [Neon Database](https://neon.tech/)
-- [Cloudflare R2 Account](https://www.cloudflare.com/products/r2/)
-- [Mapbox Account](https://console.mapbox.com/)
-
 ## 🏃‍♂️ Todo
 
 - [x] Home page with tRPC
